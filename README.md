@@ -2,7 +2,6 @@
 Disease-Diagnosis-Using-Nail-Images
 This project was done as a part of Externship program in Artificial Intelligence from SmartInternz.
 
-NOTE: DiseaseDiagnosisUsingNailImages is the main directory of the project. The other three folders contains the team members individual assignments that were given as a part of the Externship program.
 
 Introduction
 
@@ -12,15 +11,6 @@ Dataset Collection
 
 We have used two datasets to build the models. We have trained four models using the dataset provided by SmartInternz. We have also trained a model using our own dataset. The datasets can be accessed using the link : https://drive.google.com/drive/folders/1puw4t__ZZmXjFf4dEdKE7CjEUt_8QLu0?usp=sharing
 
-Proposed Method
-
-We have trained 5 models and the details are as follows:
-
-image
-
-All the trained model weights can also be found in the same link as that of the dataset.
-
-This model has been integrated with a web app usig Flask that can be deployed locally.
 
 Conclusion
 
